@@ -248,7 +248,6 @@ textarea {
   height: 300px;
   margin-bottom: 50px;
   cursor: pointer;
-  border-radius: 2%;
 }
 
 .modalBackdrop {
@@ -304,8 +303,6 @@ a {
   width: auto;
   height: 300px;
   margin-bottom: 50px;
-  cursor: pointer;
-  border-radius: 2%;
 }
 
 .navActive {

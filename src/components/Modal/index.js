@@ -16,6 +16,7 @@ function Modal({ onClose, currentPhoto }) {
           <p>{description}</p><br />
           
           <img src={require(`../../assets/large/${category}/${index}.jpg`).default} alt="current category" />
+          <br />
 
           <button onClick={onClose} type="button">Close</button>
             </div>

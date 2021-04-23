@@ -1,5 +1,6 @@
 
-main {
+main, 
+footer {
 	margin: 0 auto;
 	max-width: 90%;
   padding: 50px 30px;
@@ -97,6 +98,10 @@ header {
 
 header a {
   color: var(--light);
+}
+
+header span:hover {
+  color: var(--tertiary);
 }
 
 button {
@@ -289,6 +294,8 @@ a {
 	margin-right: -2px;
 	
 }
+
+
 
 .navActive {
   color: var(--secondary);

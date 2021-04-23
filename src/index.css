@@ -304,13 +304,6 @@ a {
   cursor: pointer;
 }
 
-.img-thumbnail:focus {
-  width: auto;
-  height: 300px;
-  margin-bottom: 50px;
-  cursor: pointer;
-}
-
 .img-thumbnail:hover {
   opacity: 80%;
 }

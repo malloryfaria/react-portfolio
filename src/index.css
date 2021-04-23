@@ -5,6 +5,7 @@ footer {
 	max-width: 90%;
   padding: 50px 30px;
 }
+
 :root {
   --primary: #FFB4A2;
   --secondary: #E5989B;
@@ -297,6 +298,20 @@ a {
 }
 
 .img-thumbnail {
+  width: auto;
+  height: 300px;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+.img-thumbnail:focus {
+  width: auto;
+  height: 300px;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+
+.img-thumbnail:hover {
   width: auto;
   height: 300px;
   margin-bottom: 50px;

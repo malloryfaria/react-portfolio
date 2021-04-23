@@ -9,8 +9,12 @@ function About() {
       <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
       <div className="my-2">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum. Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh. Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
-      </p>
+        I am a Certified Salesforce Administrator with a demonstrated history of working in the tech industry. 
+        Skilled in Customer Relationship Management, Microsoft Excel, Salesforce Administration, Technical Support and Customer Service. 
+        I graduated with an A.E.C. in Building Services focused in Architecture Technology from Montreal Technical College. 
+        I'm currently studying coding at the University of Toronto's coding bootcamp.
+        In my free time, I enjoy snuggling with my 2 long-haired chihuahuas Poquito and Havana. I also enjoy board games and pole fitness.
+        </p>
       </div>
     </section>
   )

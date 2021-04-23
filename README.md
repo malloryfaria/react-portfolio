@@ -61,7 +61,7 @@ The deployed application can be found at malloryfaria.github.io/react-portfolio
 ## Installation
 
 ```
-// Clone the repository to your local machine using:|
+// Clone the repository to your local machine using:
 
 git clone git@github.com:malloryfaria/react-portfolio.git
 
@@ -73,11 +73,15 @@ npm start
 
 ```
 ## Usage
-Use this api to set up a social network site.
+Use this to set up a React portfolio.
 ## Languages/Technology Used
 
-[Javascript](https://www.javascript.com/ "Javascript")<br />
+[React](https://reactjs.org/ "React")<br />
 [Create React App](https://github.com/facebook/create-react-app "Create React App")
+[React Testing Library](https://www.npmjs.com/package/@testing-library/react "React Testing Library")<br />
+[jest-dom](https://www.npmjs.com/package/@testing-library/jest-dom "jest-dom")<br />
+[Javascript](https://www.javascript.com/ "Javascript")<br />
+
 
 ## Contributing
 If you would like to contribute, please reach out. You can find my contact information in the  "Questions?" section below.

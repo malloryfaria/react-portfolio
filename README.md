@@ -57,7 +57,8 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 ## Deployed
 
-The deployed application can be found at malloryfaria.github.io/react-portfolio
+The deployed application can be found at 
+[Mallory's React Portfolio](https://malloryfaria.github.io/react-portfolio/ "Mallory's React Portfolio")<br />
 ## Installation
 
 ```

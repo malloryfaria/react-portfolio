@@ -249,7 +249,6 @@ textarea {
   margin-bottom: 50px;
   cursor: pointer;
   border-radius: 2%;
-  border: var(--primary);
 }
 
 .modalBackdrop {

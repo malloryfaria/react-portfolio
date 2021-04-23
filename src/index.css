@@ -300,7 +300,13 @@ a {
 	
 }
 
-
+.img-thumbnail:hover {
+  width: auto;
+  height: 300px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  border-radius: 2%;
+}
 
 .navActive {
   color: var(--secondary);

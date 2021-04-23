@@ -312,8 +312,5 @@ a {
 }
 
 .img-thumbnail:hover {
-  width: auto;
-  height: 300px;
-  margin-bottom: 50px;
-  cursor: pointer;
+  opacity: 80%;
 }

@@ -250,7 +250,7 @@ textarea {
   cursor: pointer;
 }
 
-.img-thumbnail {
+.img-thumbnail:hover {
   opacity: 0.75 !important;
 }
 

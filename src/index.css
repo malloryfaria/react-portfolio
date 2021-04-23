@@ -302,7 +302,3 @@ a {
   margin-bottom: 50px;
   cursor: pointer;
 }
-
-.img-thumbnail:hover {
-  opacity: 0.75 !important;
-}

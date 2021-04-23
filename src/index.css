@@ -252,7 +252,7 @@ textarea {
 }
 
 .img-thumbnail:hover {
-  opacity: 80%;
+  border: var(--primary);
 }
 
 .modalBackdrop {

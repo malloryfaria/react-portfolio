@@ -250,6 +250,12 @@ textarea {
   cursor: pointer;
 }
 
+.img-thumbnail {
+  opacity: 0.75 !important;
+}
+
+
+
 .modalBackdrop {
 	background: rgba(0, 0, 0, .65);
 	bottom: 0;

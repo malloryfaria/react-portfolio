@@ -53,7 +53,6 @@ const PhotoList = ({ category }) => {
       category: 'resumé',
       description: 'Mallory is Certified Salesforce Administrator with a demonstrated history of working in the tech industry. Skilled in Customer Relationship Management, Microsoft Excel, Salesforce Administration, Technical Support and Customer Service. Strong in information technology, graduated with an A.E.C. in Building Services focused in Architecture Technology from Montreal Technical College. She is currently studying full-stack web development at UofT.',
       url: 'https://www.linkedin.com/in/malloryfaria/',
-      githubURL: ''
     }
   ]);
 

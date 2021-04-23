@@ -48,6 +48,7 @@ h4,
 h5,
 h6 {
   font-family: 'Calibri', sans-serif;
+  color: var(--secondary);
   font-weight: 500;
   margin: 5px 0;
   line-height: 1.25;
@@ -127,6 +128,7 @@ button[disabled] {
 
 img {
   max-width: 100%;
+  border-radius: 2%;
 }
 
 span[role="img"] {
@@ -157,6 +159,7 @@ li {
 
 nav a:hover {
   text-decoration: none;
+  color: var(--tertiary);
 }
 
 nav  li {
@@ -245,6 +248,11 @@ textarea {
   height: 300px;
   margin-bottom: 50px;
   cursor: pointer;
+  border-radius: 2%;
+}
+
+.img-thumbnail:hover {
+  opacity: 50%;
 }
 
 .modalBackdrop {
@@ -265,6 +273,7 @@ textarea {
 	margin: 50px auto;
 	padding: 15px;
 	width: 960px;
+  border-radius: 2%;
 }
 
 .modalTitle {

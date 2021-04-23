@@ -32,6 +32,7 @@ function App() {
           <>
             <Gallery currentCategory={currentCategory}></Gallery>
             <About></About>
+            
           </>
         ) : (
             <ContactForm></ContactForm>

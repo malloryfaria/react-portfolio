@@ -10,7 +10,6 @@ function Modal({ onClose, currentPhoto }) {
           <h3 className="modalTitle">{name}</h3>
 
           <a href={url}>{url}</a><br />
-
           <a href={githubURL}>{githubURL}</a><br />
 
           <p>{description}</p><br />

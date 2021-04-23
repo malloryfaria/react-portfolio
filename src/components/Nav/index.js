@@ -17,11 +17,11 @@ function Nav(props) {
 
   return (
     <header className="flex-row px-1">
-      <h2>
+      <h3>
         <a data-testid="link" href="/">
           <span role="img" aria-label="folder"> 📁</span> Mallory's Portfolio
         </a>
-      </h2>
+      </h3>
       <nav>
         <ul className="flex-row">
           <li className="mx-2">

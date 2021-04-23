@@ -23,6 +23,10 @@ const FooterPage = () => {
               <li className="list-unstyled">
               <a href="https://www.linkedin.com/in/malloryfaria/">LinkedIn</a>
               </li>
+              <li className="list-unstyled">
+              <a href="https://stackoverflow.com/users/14356874/mallory">StackOverflow</a>
+              </li>
+              
             </ul>
           </MDBCol>
         </MDBRow>

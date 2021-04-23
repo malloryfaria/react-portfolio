@@ -249,9 +249,6 @@ textarea {
   margin-bottom: 50px;
   cursor: pointer;
   border-radius: 2%;
-}
-
-.img-thumbnail:hover {
   border: var(--primary);
 }
 

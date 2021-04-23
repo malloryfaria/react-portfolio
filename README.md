@@ -78,7 +78,7 @@ Use this to set up a React portfolio.
 ## Languages/Technology Used
 
 [React](https://reactjs.org/ "React")<br />
-[Create React App](https://github.com/facebook/create-react-app "Create React App")
+[Create React App](https://github.com/facebook/create-react-app "Create React App")<br />
 [React Testing Library](https://www.npmjs.com/package/@testing-library/react "React Testing Library")<br />
 [jest-dom](https://www.npmjs.com/package/@testing-library/jest-dom "jest-dom")<br />
 [Javascript](https://www.javascript.com/ "Javascript")<br />

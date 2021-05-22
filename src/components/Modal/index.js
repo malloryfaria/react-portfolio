@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Modal({ onClose, currentPhoto }) {
-    const {name, category, description, index, url, githubURL} = currentPhoto;
+    const {name, category, description, index, url, githubURL, download} = currentPhoto;
     
   
     return (
@@ -9,8 +9,9 @@ function Modal({ onClose, currentPhoto }) {
         <div className="modalContainer">
           <h3 className="modalTitle">{name}</h3>
 
-          <a href={url}>{url}</a><br />
-          <a href={githubURL}>{githubURL}</a><br />
+          <a href={url} target="_blank" rel="noreferrer">{url}</a><br />
+          <a href={githubURL} target="_blank" rel="noreferrer">{githubURL}</a><br />
+          <a href={download} target="_blank" rel="noreferrer" download>Download Mallory's Resumé</a><br />
 
           <p>{description}</p><br />
           

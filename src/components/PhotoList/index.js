@@ -24,7 +24,7 @@ const PhotoList = ({ category }) => {
       name: 'Weather Dashboard',
       category: 'projects',
       description: 'A weather dashboard with a 5 day forecast that will run in the browser and feature dynamically updated HTML and CSS.',
-      url: 'https://malloryfaria.github.io/weather-dashboard/',
+      url: 'https://malloryfaria.github.io/weather-dashboard/ ',
       githubURL: 'https://github.com/malloryfaria/weather-dashboard'
     },
     {
@@ -49,10 +49,18 @@ const PhotoList = ({ category }) => {
       githubURL: 'https://github.com/malloryfaria/pwa-budget-tracker'
     },
     {
+      name: 'CurrenSeed',
+      category: 'projects',
+      description: "Currenseed is an online farmer’s market. There is no real world currency here. Products are paid for using “seeds” which can be purchased via credit card, earned by doing certain tasks such as logging in, and by interacting with the website (ie. Buying and making sales). Buyer’s can browse kiosks based on their location, to ensure that they are able to buy fresh produce and other items locally. Buy local, online.",
+      url: 'https://currenseed.herokuapp.com/',
+      githubURL: 'https://github.com/DJ-KARMA/currenseed'
+    },
+    {
       name: 'Resumé',
       category: 'resumé',
       description: 'Mallory is Certified Salesforce Administrator with a demonstrated history of working in the tech industry. Skilled in Customer Relationship Management, Microsoft Excel, Salesforce Administration, Technical Support and Customer Service. Strong in information technology, graduated with an A.E.C. in Building Services focused in Architecture Technology from Montreal Technical College. She is currently studying full-stack web development at UofT.',
       url: 'https://www.linkedin.com/in/malloryfaria/',
+      download: 'https://github.com/malloryfaria/react-portfolio/public/CV-mallory.pdf'
     }
   ]);
 

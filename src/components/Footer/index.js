@@ -12,9 +12,6 @@ const FooterPage = () => {
             <h6 className="footer-title">Get in touch</h6>
             <ul>
               <li className="list-unstyled">
-              <a href="tel:5145159660">(514) 515-9660</a>
-              </li>
-              <li className="list-unstyled">
               <a href="mailto:mallory.faria@gmail.com">mallory.faria@gmail.com</a>
               </li>
               <li className="list-unstyled">
